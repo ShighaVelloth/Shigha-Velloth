@@ -22,6 +22,6 @@ A passionate Data Analyst with a Master's in Analytics and industry experience i
 * **Data Storytelling**
 
 ### Contact
-* **LinkedIn:** [https://www.linkedin.com/in/shighavelloth/]
+* **LinkedIn:** [![[LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shighavelloth/)
 * **Email:** shighavelloth513@gmail.com
 
