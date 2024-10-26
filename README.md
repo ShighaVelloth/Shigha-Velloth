@@ -21,3 +21,7 @@ A passionate Data Analyst with a Master's in Analytics and industry experience i
 * **Business Acumen**
 * **Data Storytelling**
 
+### Contact
+* **LinkedIn:** [https://www.linkedin.com/in/shighavelloth/]
+* **Email:** shighavelloth513@gmail.com
+
