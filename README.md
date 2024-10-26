@@ -3,7 +3,7 @@
 **Masters in Data Analytics**
 
 ### About Me
-A passionate Data Analyst with a Master's in Analytics and industry experience in leveraging machine learning and statistical models to generate valuable insights and optimize business operations. Skilled in handling complex datasets and translating them into actionable recommendations for improved KPIs and workflows.
+Data Analyst with a Master’s in Analytics, leveraging advanced data science and machine learning skills to generate actionable insights and drive strategic decision-making. Proven expertise in developing predictive models, enhancing data quality, and providing robust business solutions that optimize workflows and reduce costs.
 
 ### Skills
 ### Technical Skills
